@@ -56,4 +56,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+![Screenshot at 2023-10-07 14-59-49](https://github.com/Kirouane-Ayoub/Youtube-Chatbot-APP/assets/99510125/2889cdd4-2481-4279-8555-ff7213d03d89)
+
+
 + **Developed By Kirouane Ayoub**
